@@ -1,0 +1,606 @@
+.background {
+    width: 1280px;
+    height: 3186px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: #F5F5F5;
+}
+
+.header {
+    width: 1280px;
+    height: 323px;
+    position: relative;
+    background: #445162;
+}
+
+.shape1 {
+    width: 1180px;
+    height: 300px;
+    margin: 0px 50px 23px 50px;
+    background-color: #445161;
+}
+
+.product_name_block {
+    margin-top: 50px;
+    display: inline-block;
+    width: 1180px;
+    height: 250px;
+}
+
+.product_name {
+    width: 367px;
+    height: 44px;
+    font-family: Arial;
+    font-size: 58px;
+    line-height: 58px;
+    text-align: left;
+    color: #ffffff;
+    margin: 0px;
+}
+
+.product_info {
+    margin-top: 51px;
+    font-family: Arial;
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 1.5;
+}
+
+.shape2 {
+    float: right;
+    width: 469px;
+    height: 214px;
+    background: #ffffff;
+    margin: 8px 0px 0px;
+}
+
+
+.about {
+    position: absolute;
+    width: 1280px;
+    height: 345px;
+    padding: 45px 0px 26px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+
+.about_block {
+    margin: 0 auto;
+    position: relative;
+    width: 1180px;
+}
+
+.col-1 {
+    float: left;
+    margin: 0 85px 0 0;
+    position: relative;
+    width: 660px;
+}
+
+.text-1 {
+    width: 254px;
+    height: 28px;
+    color: #445161;
+    font-size: 30px;
+    margin: 0;
+    font-family: Arial;
+}
+
+.text-2 {
+    margin: 24px 0 0;
+    width: 665px;
+    line-height: 24px;
+    color: #445161;
+    font-family: Arial;
+}
+
+.video {
+    float: right;
+    height: 247px;
+    margin: 5px 0 0;
+    width: 432px;
+    background: #445161;
+}
+
+.pluses {
+    width: 1157px;
+    height: 317px;
+    top: 717px;
+    position: absolute;
+    left: 50px;
+}
+
+.text-3 {
+    width: 351px;
+    height: 28px;
+    margin: 0 392px 29px 414px;
+    object-fit: contain;
+    font-family: Arial;
+    font-size: 29px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #445161;
+}
+
+.container {
+    position: relative;
+    top: 0;
+    left: 0;
+
+}
+
+.image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.image2 {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+}
+
+.container-pluses {
+    display: flex;
+    flex-direction: row;
+    height: 63px;
+    margin-top: 32px;
+
+}
+
+.tr-pluses1 {
+    width: 23px;
+}
+
+.text-4 {
+    width: 526px;
+    font-size: 15px;
+    font-family: Arial;
+    color: #333;
+    line-height: 1.5;
+}
+
+.td1-pluses {
+    width: 41px;
+    height: 63px;
+    padding: 0px;
+    vertical-align: top;
+}
+
+.scrinshots {
+    background-color: #ffffff;
+    width: 1280px;
+    height: 487px;
+    top: 1085px;
+    position: absolute;
+}
+
+.text-5 {
+    width: 138px;
+    height: 22px;
+    left: 571px;
+    top: 51px;
+    font-family: Arial;
+    font-size: 30px;
+    line-height: 1.2;
+    text-align: left;
+    color: #445161;
+    margin: 51px 571px 34px 571px;
+}
+
+.container-scrinshots {
+    display: flex;
+    flex-direction: row;
+    height: 151px;
+    margin-left: 50px;
+    margin-top: 32px;
+}
+
+.container-img {
+    width: 200px;
+    height: 150px;
+    margin: 1px 15px 0 0;
+    object-fit: contain;
+}
+
+.container-textbox {
+    width: 310px;
+    height: 23px;
+    margin: 0 49px 10 0;
+    object-fit: contain;
+    font-family: Arial;
+    font-size: 23px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #445161;
+}
+
+.container-textbox-2 {
+    width: 359px;
+    height: 108px;
+    margin: 15px 0 5px 0;
+    object-fit: contain;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.4;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333;
+}
+
+.reviews {
+    width: 1180px;
+    height: 323px;
+    top: 1616px;
+    position: absolute;
+    left: 50px;
+}
+
+.text-6 {
+    width: 111px;
+    height: 22px;
+    margin: 0 534px 35px 535px;
+    object-fit: contain;
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #445161;
+}
+
+.container-reviews {
+    display: flex;
+    flex-direction: row;
+    height: 75px;
+    width: 75px;
+    margin-top: 35px;
+    position: relative;
+}
+
+.container-img-1 {
+    width: 200px;
+    height: 150px;
+    margin: 1px 15px 0 0;
+    object-fit: contain;
+}
+
+.container-img-2 {
+    width: 483px;
+    height: 121px;
+    object-fit: contain;
+}
+
+.container-textbox-3 {
+    width: 436px;
+    height: 64px;
+    margin: 0 0 15px;
+    object-fit: contain;
+    position: absolute;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 1.29;
+    top: 16px;
+    left: 118px;
+    color: #333;
+}
+
+.container-textbox-4 {
+    width: 67px;
+    height: 10px;
+    margin: 15px 369px 0 0;
+    object-fit: contain;
+    position: absolute;
+    font-family: Arial;
+    font-size: 14px;
+    letter-spacing: -0.1px;
+    line-height: 1.29;
+    top: 80px;
+    left: 118px;
+    color: #989898;
+}
+
+.tr-pluses-2 {
+    width: 60px;
+    margin-right: 32px;
+    object-fit: contain;
+}
+
+.container-textbox-5 {
+    width: 436px;
+    height: 64px;
+    margin: 0 0 15px;
+    object-fit: contain;
+    position: absolute;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 1.29;
+    top: 16px;
+    left: 724px;
+    color: #333;
+}
+
+.container-textbox-6 {
+    width: 67px;
+    height: 10px;
+    margin: 15px 369px 0 0;
+    object-fit: contain;
+    position: absolute;
+    font-family: Arial;
+    font-size: 14px;
+    letter-spacing: -0.1px;
+    line-height: 1.29;
+    top: 80px;
+    left: 724px;
+    color: #989898;
+}
+
+.top-reviews {
+    height: 34px;
+}
+
+.buy-it-now {
+    background-color: #ffffff;
+    width: 1280px;
+    height: 656px;
+    top: 1673px;
+    position: relative;
+}
+
+.text-7 {
+    width: 138px;
+    height: 22px;
+    left: 571px;
+    font-family: Arial;
+    font-size: 30px;
+    line-height: 1.2;
+    text-align: left;
+    color: #445161;
+    margin: 50px 571px 34px 571px;
+    letter-spacing: -0.1px;
+    display: inline-block;
+}
+
+.container-buy-1 {
+    width: 300px;
+    height: 306px;
+    padding: 16px 0 20px;
+    object-fit: contain;
+    background-color: #445161;
+    left: 145px;
+    top: 300px;
+    position: absolute;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.container-title {
+    width: 90px;
+    height: 18px;
+    margin: 0 105px 17px;
+    object-fit: contain;
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+.container-buy-2 {
+    width: 300px;
+    height: 404px;
+    padding: 16px 0 20px;
+    object-fit: contain;
+    background-color: #445161;
+    left: 490px;
+    top: 202px;
+    position: absolute;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.container-buy-3 {
+    width: 300px;
+    height: 499px;
+    padding: 16px 0 20px;
+    object-fit: contain;
+    background-color: #445161;
+    left: 835px;
+    top: 107px;
+    position: absolute;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.bg-price {
+    width: 300px;
+    height: 71px;
+    object-fit: contain;
+    background-color: #ffffff;
+    box-shadow: inset 0 0 0 2px #445161;
+}
+
+.bg-price-text-1 {
+    width: 300px;
+    height: 35px;
+    font-family: Arial;
+    font-size: 40px;
+    color: #445162;
+    text-align: center;
+    padding-top: 13px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.bg-price-text-2 {
+    width: 242px;
+    font-family: Arial;
+    font-size: 14px;
+    color: #ffffff;
+    text-align: left;
+    margin: 19px 38px 0px 20px;
+    line-height: 1.71;
+    letter-spacing: -0.2px;
+}
+
+.button-buy {
+    width: 260px;
+    height: 40px;
+    margin: 14px 20px 0;
+    object-fit: contain;
+    border-radius: 3px;
+    border: 0px;
+    font-family: Arial;
+    font-size: 18px;
+    color: #445161;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.contacts {
+    width: 1280px;
+    height: 509px;
+    top: 1673px;
+    position: relative;
+    background-color: #445161;
+}
+
+.text-8 {
+    width: 117px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 30px;
+    line-height: 1.2;
+    text-align: left;
+    color: #ffffff;
+    margin: 50px 571px 34px 571px;
+    letter-spacing: -0.1px;
+    display: inline-block;
+}
+
+.container-contacts {
+    width: 502px;
+    height: 356px;
+    object-fit: contain;
+    left: 249px;
+    top: 106px;
+    position: absolute;
+}
+
+.text-input {
+    width: 500px;
+    height: 40px;
+    object-fit: contain;
+    border-radius: 3px;
+    border: 0px;
+    margin-bottom: 19px;
+}
+
+.message-text-input {
+    width: 500px;
+    height: 172px;
+    object-fit: contain;
+    border-radius: 3px;
+    border: 0px;
+    margin-bottom: 19px;
+}
+
+input[type=text]::placeholder,
+textarea::placeholder {
+    font-size: 16px;
+    color: #445162;
+    padding-left: 10px;
+    font-family: Arial;
+    padding-top: 10px;
+    ;
+}
+
+.button-send {
+    width: 140px;
+    height: 40px;
+    object-fit: contain;
+    border-radius: 3px;
+    border: 0px;
+    font-family: Arial;
+    font-size: 16px;
+    color: #445161;
+    font-weight: bold;
+    line-height: 40px;
+    position: absolute;
+    left: 180px;
+}
+
+.container-contacts-2 {
+    width: 300px;
+    height: 356px;
+    object-fit: contain;
+    left: 795px;
+    top: 106px;
+    position: absolute;
+}
+
+.text-9 {
+    width: 165px;
+    height: 15px;
+    margin: 8px 0 3px 5px;
+    object-fit: contain;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+.table-contacts {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.section {
+    border-bottom: 1em solid transparent;
+}
+
+.td2-contacts {
+    width: 31px;
+}
+
+.after {
+    width: 284px;
+    height: 11px;
+    object-fit: contain;
+    font-family: Arial;
+    font-size: 12px;
+    left: 498px;
+    letter-spacing: 0.3px;
+    text-align: left;
+    color: #445162;
+    top: 1673px;
+    position: relative;
+    margin: 7px;
+}
